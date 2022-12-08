@@ -20,4 +20,4 @@
 
 # Patient 4
 
-![Alt Text](https://github.com/McCastles/USG_Bone_Segmentation/blob/main/GIFs/3_compressed.gif)
+![Alt Text](https://github.com/McCastles/USG_Bone_Segmentation/blob/main/GIFs/pat_3.gif)
